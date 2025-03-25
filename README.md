@@ -21,7 +21,7 @@
 ![interpolation](https://github.com/DIY-Elecron1cs/DE_setPID/blob/main/images/interpolation.png?raw=true)
 
 ## Arduino
-Настройщик включает в себя мини-библиотеку для Arduino для удобной работы по Serial:
+Настройщик включает в себя [мини-библиотеку](https://github.com/DIY-Elecron1cs/DE_setPID/blob/main/arduino/test/setPID.h) под Arduino для удобной работы по Serial:
 ### подключение и инициализация
 ```cpp
 #include "setPID.h"
