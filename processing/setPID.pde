@@ -60,7 +60,7 @@ void draw() {
   if (plotMode == false) {
     drawGraph();
   } else {
-    drawGraphInterpol();
+    drawGraphInterpolation();
   }
   //mousePressed();
 }
@@ -138,7 +138,7 @@ void parse() {
   }
 }
 
-void drawGraphInterpol() {
+void drawGraphInterpolation() {
   for (i = 400; i < width; i++) {
 
     y1_start = height + h - valuesToPlot1[(index + i - 1) % (width + w)] * ((height + h) / 1023.0);
