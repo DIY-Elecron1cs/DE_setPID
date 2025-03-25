@@ -54,3 +54,5 @@ void loop() {
   set.plot(analogRead(A0), analogRead(A1), analogRead(A2));
 }
 ```
+
+По вопросам писать в [чат DIY electronics](https://t.me/diy_electronics_chat) или на почту diy-electronics@mail.ru
