@@ -15,7 +15,7 @@
 ### использование
 
 
-![interpolation](https://github.com/DIY-Elecron1cs/DE_setPID/blob/main/images/interpol.png?raw=true)
+![interpolation](https://github.com/DIY-Elecron1cs/DE_setPID/blob/main/images/interpolation.png?raw=true)
 
 ## Arduino
 Настройщик включает в себя мини-библиотеку для Arduino для удобной работы по Serial:
