@@ -9,7 +9,8 @@
 ## Processing
 dldvgmignv
 
-
+![interpol](https://github.com/DIY-Elecron1cs/DE_setPID/blob/main/images/interpol.png?raw=true)
 
 ## Arduino
 vr9thmaseiucm
+
