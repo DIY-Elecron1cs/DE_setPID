@@ -2,7 +2,7 @@
 настройщик ПИД регулятора по UART
 
 - [Processing](#Processing)
-- [Arduino library](#Arduino)
+- [Arduino](#Arduino)
 
 ![setPID](https://github.com/DIY-Elecron1cs/DE_setPID/blob/main/images/image-setPID1.png?raw=true)
 
@@ -11,5 +11,5 @@ dldvgmignv
 
 
 
-## Arduino library
+## Arduino
 vr9thmaseiucm
