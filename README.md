@@ -16,7 +16,7 @@ dldvgmignv
 ### подключение и инициализация
 ```cpp
 #include "setPID.h"
-setPID set;
+setPID;
 ```
 ### использование
 ```cpp
