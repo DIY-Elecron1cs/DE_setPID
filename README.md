@@ -7,12 +7,15 @@
 ![setPID](https://github.com/DIY-Elecron1cs/DE_setPID/blob/main/images/image-setPID1.png?raw=true)
 
 ## Processing
+### функционал
 - программа на [Processing](https://github.com/DIY-Elecron1cs/DE_setPID/blob/main/processing/setPID.pde) включает в себя 3 слайдера для настройки коэффициентов ПИД от 0 до 20 с интервалом в 0.1;
 - имеется встроенный плоттер для отображения графиков;
 - есть функция остановки (заморозки) графика;
 - есть функция интерполяции графика, позволяет отслеживать быстроту изменения значений.
+### использование
 
-![interpol](https://github.com/DIY-Elecron1cs/DE_setPID/blob/main/images/interpol.png?raw=true)
+
+![interpolation](https://github.com/DIY-Elecron1cs/DE_setPID/blob/main/images/interpol.png?raw=true)
 
 ## Arduino
 Настройщик включает в себя мини-библиотеку для Arduino для удобной работы по Serial:
