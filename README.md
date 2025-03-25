@@ -7,7 +7,10 @@
 ![setPID](https://github.com/DIY-Elecron1cs/DE_setPID/blob/main/images/image-setPID1.png?raw=true)
 
 ## Processing
-dldvgmignv
+- программа на [Processing](https://github.com/DIY-Elecron1cs/DE_setPID/blob/main/processing/setPID.pde) включает в себя 3 слайдера для настройки коэффициентов ПИД от 0 до 20 с интервалом в 0.1;
+- имеется встроенный плоттер для отображения графиков;
+- есть функция остановки (заморозки) графика;
+- есть функция интерполяции графика, позволяет отслеживать быстроту изменения значений.
 
 ![interpol](https://github.com/DIY-Elecron1cs/DE_setPID/blob/main/images/interpol.png?raw=true)
 
